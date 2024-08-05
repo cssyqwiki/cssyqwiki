@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# 芝士什么？
+芝士wiki
+## 这是为了消除信息壁垒而存在的wiki
+我们希望机会平等，竞争应该注重能力而非信息差
+## 这是为了让同学们更好的安排大学生活而存在的wiki
+我们希望大伙能在享受生活的同时做出相对合理的选择
+## 这是为了让真正喜欢cs的人更喜欢cs
+不喜欢cs的人要么变得喜欢，要么劝退
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# 写在前面
+叠甲
+我们会对该wiki的所有信息负责
+我们秉持着共享，开源的互联网精神
+我们是民间组织，也并不希望出现在官方的视野中
